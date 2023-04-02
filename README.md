@@ -1,1 +1,1 @@
-# webdriver-io-trainings
+# Webdriver-io-trainings
